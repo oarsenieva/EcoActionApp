@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EcoActionApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="app_title">EcoAction Projects</string>
+    <string name="app_descr">EcoAction is a program by Environment Canada to support community environmental projects.</string>
+    <string name="app_link">For more information go to www.ec.gc.ca/ecoaction</string>
+    <string name="listButtonName">See All Projects</string>
+    <string name="mapButtonName">See Project Map</string>
+    <string name="mapActivityTitle">Locations of EcoAction Projects</string>
+    <string name="listActivityTitle">All EcoAction Projects</string>
+    <string name="projectDetail">EcoAction Project Details</string>
+    <string name="searchLabel">Find Project:</string>
+    <string name="searchHint">Enter Project Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_project_list">ProjectListActivity</string>
+    <string name="title_activity_project_detail">ProjectDetailActivity</string>
+</resources>
